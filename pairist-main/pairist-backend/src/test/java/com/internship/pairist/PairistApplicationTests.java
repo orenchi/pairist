@@ -1,0 +1,13 @@
+package com.internship.pairist;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PairistApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
